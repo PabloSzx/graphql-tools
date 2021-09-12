@@ -1,5 +1,11 @@
 # @graphql-tools/graphql-tag-pluck
 
+## 7.1.1
+
+### Patch Changes
+
+- 160d9470: fix ESM usage
+
 ## 7.1.0
 
 ### Minor Changes
